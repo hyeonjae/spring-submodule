@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/board-api/board-api.iml" filepath="$PROJECT_DIR$/board-api/board-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-module/core-module.iml" filepath="$PROJECT_DIR$/core-module/core-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-submodule.iml" filepath="$PROJECT_DIR$/spring-submodule.iml" />
     </modules>
   </component>
